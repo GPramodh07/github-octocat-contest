@@ -2,13 +2,13 @@
 
 > **Channel your inner artist and design a brand-new, original Octocat variant!**
 
-Welcome to my creative submission for the **GitHub Octocat Drawing Contest**. This is where imagination meets GitHub's iconic mascot, Mona the Octocat. Put your own unique spin on this beloved tech icon and showcase your artistic vision!
+Welcome to my creative submission for the **GitHub Octocat Drawing Contest**. This is where imagination meets GitHub's iconic mascot, Mona the Octocat. Put your own unique spin on this beloved tech icon!
 
 ---
 
 ## 🎨 About This Challenge
 
-The GitHub Octocat Drawing Contest invites artists and creators to reimagine one of tech's most recognizable mascots. Whether you're designing a "Cyberpunk Octocat," a "Chef-o-cat," or something entirely from your imagination—this is your chance to shine!
+The GitHub Octocat Drawing Contest invites artists and creators to reimagine one of tech's most recognizable mascots. Whether you're designing a "Cyberpunk Octocat," a "Chef-o-cat," or something entirely unique, this is your chance to shine!
 
 ### 🏆 What's at Stake?
 The most creative and unique submissions win **free credits** to spend on swag at the GitHub Shop!
@@ -87,12 +87,6 @@ Think creatively! Here are some theme ideas to spark your imagination:
 ## 🤝 Contributing
 
 Have feedback or suggestions? Feel free to open an issue or discussion! This is a creative space for all artists and makers.
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
