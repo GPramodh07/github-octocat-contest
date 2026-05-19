@@ -8,7 +8,7 @@ Welcome to my creative submission for the **GitHub Octocat Drawing Contest**. Th
 
 ## 🎨 About This Challenge
 
-The GitHub Octocat Drawing Contest invites artists and creators to reimagine one of tech's most recognizable mascots. Whether you're designing a "Cyberpunk Octocat," a "Chef-o-cat," or something entirely unique, this is your chance to shine!
+The GitHub Octocat Drawing Contest invites artists and creators to reimagine one of tech's most recognizable mascots. Whether you're designing a "Cyberpunk Octocat," a "Chef-o-cat," or something entirely unique—this is your chance to showcase your creativity!
 
 ### 🏆 What's at Stake?
 The most creative and unique submissions win **free credits** to spend on swag at the GitHub Shop!
@@ -45,11 +45,11 @@ Upload an image file of your custom Octocat creation to this repository to compl
 
 ## 📋 Submission Checklist
 
-- [ ] Visited the Octodex for inspiration
-- [ ] Created an original Octocat design
-- [ ] Prepared a high-quality image file
-- [ ] Added your design to this repository
-- [ ] Ensured the submission is unique and creative
+- [x] Visited the Octodex for inspiration
+- [x] Created an original Octocat design
+- [x] Prepared a high-quality image file
+- [x] Added your design to this repository
+- [x] Ensured the submission is unique and creative
 
 ---
 
@@ -68,11 +68,7 @@ Think creatively! Here are some theme ideas to spark your imagination:
 
 ## 🖼️ My Submission
 
-*Place your Octocat design image here!*
-
-```
-[Your amazing artwork goes here]
-```
+![My Octocat Design](./final.png)
 
 ---
 
